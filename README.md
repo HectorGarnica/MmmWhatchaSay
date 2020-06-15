@@ -1,5 +1,5 @@
 # MmmWhatchaSay
-Gun app with a twist 
+Gun app with a twist: Android
 
 ## Motivation
 Inspired by the SNL short "Dear Sister," this app plays a catchy tune every time the gun is fired.  
